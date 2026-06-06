@@ -1,3 +1,9 @@
+// Integrantes
+// Felipe Piccolo - RM569324
+// Leonardo Bueno - RM572152
+// Joao Veiga - RM569874
+
+
 #include <Arduino.h>
 #include <DHT.h>
 #include <EasyUltrasonic.h>
